@@ -2,7 +2,7 @@
 
 A graphical representation of who has been told "We are the same"
 
-https://vanillabrooks.github.io/the-same/
+[https://vanillabrooks.github.io/the-same/](https://alopez6991.github.io/AVL-the-same/)
 
 
 ## Updating
