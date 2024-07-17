@@ -1,6 +1,6 @@
 # the-same
 
-A graphical representation of who has been told "We are the same"
+A graphical representation of who has been told "We are the same!"
 
 [https://alopez6991.github.io/AVL-the-same/](https://alopez6991.github.io/AVL-the-same/)
 
